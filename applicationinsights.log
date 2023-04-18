@@ -1,0 +1,11 @@
+2023-04-18 17:30:57.841+05:30 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.4.11 startup failed (PID 31220)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string.
+
